@@ -1,0 +1,11 @@
+command_id: DA40.40.221004
+test_cases:
+- expected_values:
+    QUBO_BATT_V_BCM: 12
+  response: 18DAF140056210042EE0
+- expected_values:
+    QUBO_BATT_V_BCM: 12.8
+  response: 18DAF140056210043200
+- expected_values:
+    QUBO_BATT_V_BCM: 14.08
+  response: 18DAF140056210043700
