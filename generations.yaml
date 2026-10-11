@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Fiat_Fiorino"
+
+generations:
+  - name: "First Generation"
+    start_year: 2008
+    end_year: 2020
+    description: "The passenger version of the third-generation Fiorino, built with PSA alongside the Peugeot Bipper and Citroen Nemo, with 1.4 L gasoline and 1.3 MultiJet diesel engines."
